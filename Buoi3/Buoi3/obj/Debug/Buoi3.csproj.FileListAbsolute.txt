@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\Buoi3\Buoi3\bin\Debug\Buoi3.exe.config
+C:\Users\ASUS\source\repos\Buoi3\Buoi3\bin\Debug\Buoi3.exe
+C:\Users\ASUS\source\repos\Buoi3\Buoi3\bin\Debug\Buoi3.pdb
+C:\Users\ASUS\source\repos\Buoi3\Buoi3\obj\Debug\Buoi3.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Buoi3\Buoi3\obj\Debug\Buoi3.Form1.resources
+C:\Users\ASUS\source\repos\Buoi3\Buoi3\obj\Debug\Buoi3.Form2.resources
+C:\Users\ASUS\source\repos\Buoi3\Buoi3\obj\Debug\Buoi3.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Buoi3\Buoi3\obj\Debug\Buoi3.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Buoi3\Buoi3\obj\Debug\Buoi3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Buoi3\Buoi3\obj\Debug\Buoi3.exe
+C:\Users\ASUS\source\repos\Buoi3\Buoi3\obj\Debug\Buoi3.pdb

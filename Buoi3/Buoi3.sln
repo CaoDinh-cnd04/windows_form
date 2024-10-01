@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi3", "Buoi3\Buoi3.csproj", "{E0454911-6DBC-4D4E-897A-76018C8C0024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buoi3_baitap", "buoi3_baitap\buoi3_baitap.csproj", "{7BECDC6C-8ECE-4EAC-986D-7B508572E31E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0454911-6DBC-4D4E-897A-76018C8C0024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0454911-6DBC-4D4E-897A-76018C8C0024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0454911-6DBC-4D4E-897A-76018C8C0024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0454911-6DBC-4D4E-897A-76018C8C0024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BECDC6C-8ECE-4EAC-986D-7B508572E31E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BECDC6C-8ECE-4EAC-986D-7B508572E31E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BECDC6C-8ECE-4EAC-986D-7B508572E31E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BECDC6C-8ECE-4EAC-986D-7B508572E31E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C32ED94-A349-49F2-8288-B23D3C91B35E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\Buoi3\buoi3_baitap\obj\Debug\buoi3_baitap.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Buoi3\buoi3_baitap\obj\Debug\buoi3_baitap.Form1.resources
+C:\Users\ASUS\source\repos\Buoi3\buoi3_baitap\obj\Debug\buoi3_baitap.Form2.resources
+C:\Users\ASUS\source\repos\Buoi3\buoi3_baitap\obj\Debug\buoi3_baitap.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Buoi3\buoi3_baitap\obj\Debug\buoi3_baitap.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Buoi3\buoi3_baitap\obj\Debug\buoi3_baitap.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Buoi3\buoi3_baitap\bin\Debug\buoi3_baitap.exe.config
+C:\Users\ASUS\source\repos\Buoi3\buoi3_baitap\bin\Debug\buoi3_baitap.exe
+C:\Users\ASUS\source\repos\Buoi3\buoi3_baitap\bin\Debug\buoi3_baitap.pdb
+C:\Users\ASUS\source\repos\Buoi3\buoi3_baitap\obj\Debug\buoi3_baitap.exe
+C:\Users\ASUS\source\repos\Buoi3\buoi3_baitap\obj\Debug\buoi3_baitap.pdb
