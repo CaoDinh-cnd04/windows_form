@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\Empty framework\Empty framework\obj\Debug\Empty framework.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Empty framework\Empty framework\obj\Debug\Empty_framework.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Empty framework\Empty framework\obj\Debug\Empty framework.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Empty framework\Empty framework\obj\Debug\Empty framework.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Empty framework\Empty framework\bin\Debug\Empty framework.exe.config
+C:\Users\ASUS\source\repos\Empty framework\Empty framework\bin\Debug\Empty framework.exe
+C:\Users\ASUS\source\repos\Empty framework\Empty framework\bin\Debug\Empty framework.pdb
+C:\Users\ASUS\source\repos\Empty framework\Empty framework\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\Empty framework\Empty framework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\Empty framework\Empty framework\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\Empty framework\Empty framework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\Empty framework\Empty framework\obj\Debug\Empty fr.7E6BF777.Up2Date
+C:\Users\ASUS\source\repos\Empty framework\Empty framework\obj\Debug\Empty framework.exe
+C:\Users\ASUS\source\repos\Empty framework\Empty framework\obj\Debug\Empty framework.pdb
+C:\Users\ASUS\source\repos\Empty framework\Empty framework\obj\Debug\StudentManagement.Form1.resources
